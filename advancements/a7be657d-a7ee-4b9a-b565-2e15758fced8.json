@@ -1,0 +1,21 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2023-01-25 00:26:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2023-01-26 02:36:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_shore": "2023-01-23 01:37:29 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 3218
+}
