@@ -1,0 +1,10 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2023-01-22 22:30:17 +0800",
+      "minecraft:stony_shore": "2023-01-23 20:55:51 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 3218
+}

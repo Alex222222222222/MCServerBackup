@@ -1,0 +1,15 @@
+{
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2023-01-26 02:34:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:meadow": "2023-01-25 17:38:28 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 3218
+}
